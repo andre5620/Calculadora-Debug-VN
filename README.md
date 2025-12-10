@@ -6,7 +6,7 @@ Calculadora que decodifica hex para as informações presentes no KIJO VN
 
 0008 = 0000 0000 0000 1000
 
-001000000000 - Controle de Secao Ativado (Se pegou o Evento)
+001000000000 - Controle de Secao Ativado (Se pegou o Evento)/n
 000100000000 - Tem Mensagem da Secao vindo na CAN  vindo nos ultimos 5 seg
 000010000000 - Alguma secao ligada no vetor de secao
 000001000000 - Tem Mensagem do Master/Levante na CAN  vindo nos ultimos 5 seg
