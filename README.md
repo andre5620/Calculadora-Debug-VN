@@ -24,6 +24,6 @@ Global.tipoEfetivoPlanter = 4; //Sai do Efetivo de Populacao
 Global.tipoEfetivoPlanter = 5; //Sai do Efetivo de Sensores
 Global.tipoEfetivoPlanter = 6; //Sai do Efetivo geral
 
-Global.tipoEfetivoPlanter = 7; //Efetivo com Secao + Populacao
-Global.tipoEfetivoPlanter = 8; //Efetivo com Populacao
-Global.tipoEfetivoPlanter = 9; //Efetivo com Sensores
+Global.tipoEfetivoPlanter = 7; //Efetivo com Secao + Populacao  
+Global.tipoEfetivoPlanter = 8; //Efetivo com Populacao  
+Global.tipoEfetivoPlanter = 9; //Efetivo com Sensores  
